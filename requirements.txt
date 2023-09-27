@@ -1,2 +1,12 @@
 streamlit==1.1.0
 plotly==5.1.0
+beautifulsoup4==4.12.2
+certifi==2023.7.22
+charset-normalizer==3.2.0
+docopt==0.6.2
+idna==3.4
+pipreqs==0.4.13
+requests==2.31.0
+soupsieve==2.5
+urllib3==2.0.5
+yarg==0.1.9
